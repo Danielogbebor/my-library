@@ -55,7 +55,7 @@ render()
 {
     return (
       <div className="container bg-light mt-5 mb-5" style={{fontFamily: 'Nunito', color: '#000115'}}>
-          <div class="row">  
+          <div className="row">  
             <div className="col-12 mx-auto shadow p-5">
               <h2 className="text-center mb-4">Add  Book </h2>
                 <form className="form-wrappers">
